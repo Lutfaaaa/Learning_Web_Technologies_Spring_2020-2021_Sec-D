@@ -1,0 +1,17 @@
+<student>
+	<table sr="1">
+		<sl.no>23</sl.no>
+		<name>John Carter</name>
+		<admissiondate>25/12/2015</admissiondate>
+    </table>
+	<table sr="2">
+	    <sl.no>29</sl.no>
+        <name>Bob Marshel</name>
+        <admissiondate>13/01/1999</admissiondate>
+    </table>
+    <table sr="3">  
+         <sl.no>35</sl.no> 
+         <name>Clark kent</name>
+         <admissiondate>17/06/2005</admissiondate>
+     </table>
+ </student>
